@@ -1856,7 +1856,7 @@ plotting,172
 plsmaswd,404
 plumppop,556
 plusalph,150
-plygonet,1710
+plygonet,1707
 pnickj,351
 poitto,225
 pokrdice,336
