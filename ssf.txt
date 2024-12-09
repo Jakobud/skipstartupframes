@@ -291,7 +291,7 @@ boomrang,57
 boothill,1418
 borench,282
 borntofi,0
-bosco,13877
+bosco,1010
 botanic,2404
 bottom9,775
 bouldash,33
@@ -361,14 +361,14 @@ carnevil,6132
 carnival,70
 carpolo,504
 cartfury,0
-castfant,9814
+castfant,8890
 cavelon,538
 cavenger,5
 cawing,1059
 cbaj,0
 cball,34
 cbasebal,741
-cbdash,9928
+cbdash,9150
 cbtime,9610
 cburnrub,10150
 cbuster,137
@@ -433,7 +433,7 @@ clowns,884
 clshroad,50
 cltchitr,364
 club90s,351
-cluckypo,9271
+cluckypo,8925
 cluclu,375
 cmehyou,183
 cmissnx,8284
@@ -472,10 +472,10 @@ cotton2,3708
 cottonbm,0
 countrun,0
 cppicf,9800
-cprobowl,9882
-cprogolf,9529
+cprobowl,10150
+cprogolf,8946
 cpsoccer,11679
-cptennis,9023
+cptennis,9215
 cracksht,0
 crash,7371
 crater,390
@@ -497,7 +497,7 @@ crystal2,603
 crystalg,0
 crzrally,360
 csclub,2763
-cscrtry,9446
+cscrtry,9340
 cshift,2249
 cshooter,629
 csilver,-2
@@ -506,7 +506,7 @@ cstlevna,1566
 csuperas,8150
 cterrani,8990
 ctomaday,243
-ctornado,8952
+ctornado,9500
 ctribe,293
 ctsttape,0
 cubybop,2103
@@ -1981,7 +1981,7 @@ qzkklogy,915
 qzquest,2254
 qzshowby,202
 r2dtank,145
-rabiolep,8908
+rabiolep,625
 racedriv,4393
 rachero,86
 racinfrc,1395
@@ -2038,7 +2038,7 @@ renju,2680
 rescraid,1769
 rescue,0
 retofinv,0
-revx,9322
+revx,5089
 rezon,359
 rfjet,31
 ribbit,17
@@ -2851,7 +2851,7 @@ wndrplnt,262
 wof,400
 wolfpack,1
 woodpek,41
-wotw,8450
+wotw,0
 wow,0
 wpksoc,341
 wrally,0
