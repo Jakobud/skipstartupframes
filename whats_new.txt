@@ -1,0 +1,37 @@
+What's new
+-------------
+
+    v2.2.0 - 10 Apr 2025
+Updates to ssf.txt
+
+    v2.1.0 - 16 Jan 2025
+Fixed false options always reverting to default values on startup
+Fixed LUA pattern matching for underscores
+Updated Readme to reflect vsync limitations
+Updates to ssf.txt
+
+    v2.0.0 - 15 Dec 2024
+Fixed debug and debug slow motion toggling
+Added optional format to support soft reset frame numbers
+Added ssf_custom.txt for saving/customizing frame numbers
+Updated Plugin Options Menu
+Massive code refactoring, split into modular files
+Updates to ssf.txt
+
+    v1.3.0 - 20 Nov 2024
+Added Plugin Options Menu Close on ESCAPE press event
+Set ssf.txt to save when exiting a game or exiting MAME
+Added Plugin Option Menu item to adjust frames for current game
+Added preservation of frame target for current game when restarting (F3) a game
+Ensure that frameTarget is always set to zero for non-existent or negative pre-existing values
+Fixed alphabetical sort of ssf.txt
+Updates to ssf.txt
+
+    v1.2.0 - 20 Nov 2024
+Updates to ssf.txt
+
+    v1.1.0 - 13 Nov 2024
+Fixed issue with wrong screen device tag causing a crash and improved screen blackout to apply to all screens for multi-screen games
+
+    v1.0.0 - 12 Nov 2024
+First release
