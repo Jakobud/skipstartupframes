@@ -4,7 +4,7 @@
 
 005,268
 1941,1046
-1942,640
+1942,10
 1943,70
 1943kai,551
 1944,687
@@ -55,7 +55,8 @@ airco22b,0
 aircomb,890|848
 aircombj,645|547
 airduel,29
-airwolf,614
+airraid,102
+airwolf,162
 ajax,450
 akiss,42
 alexkidd,13
@@ -88,7 +89,7 @@ aof3,243
 apache3,537
 apb,572
 apparel,485
-appoooh,638
+appoooh,16
 aquajack,123
 aquarium,167
 aquarush,551
@@ -152,7 +153,7 @@ aurail,452
 av2mj1bb,7651
 av2mj2rg,7661
 avalnche,136
-avengers,621
+avengers,703
 avengrgs,0
 avsp,760
 avspirit,22
@@ -171,7 +172,7 @@ ballbomb,96
 ballbros,92
 balonfgt,6
 baluba,13
-bananadr,628
+bananadr,180
 bang,811
 bangball,192
 bangbead,243
@@ -358,7 +359,7 @@ cameltry,765
 cannball,94
 cannonb,0
 canyon,0
-capbowl,645
+capbowl,330
 captaven,191
 captcomm,691
 carjmbre,1740
@@ -396,10 +397,10 @@ chameleo,150|12
 champbas,53
 champbb2,231
 champbwl,0
-champwr,636
+champwr,348
 changes,353
 charlien,49
-chasehq,610
+chasehq,296
 chboxing,80
 checkman,431
 checkmat,368
@@ -423,14 +424,14 @@ chwrestl,63
 circus,0
 circusc,259
 cischeat,90
-citybomb,627
+citybomb,591
 citycon,266
 citylove,569
 ckong,5
 clapapa,9878
 claypign,0
 clayshoo,328
-cleopatr,601
+cleopatr,567
 cloak,10
 clocknch,8575
 cloud9,31
@@ -453,7 +454,7 @@ columns2,49
 combasc,571
 combat,0
 commando,650
-commandw,604
+commandw,408
 commsega,5
 comotion,8
 compgolf,391
@@ -468,7 +469,7 @@ cop01,125
 copsnrob,0
 cosmccop,498
 cosmica,0
-cosmicg,639
+cosmicg,0
 cosmo,65
 cosmogng,0
 cosmos,0
@@ -498,13 +499,12 @@ crusnusa,746
 crusnwld,634
 cryptklr,3700
 crysking,158
-crystal2,603
+crystal2,208
 crystalg,0
 crzrally,360
 csclub,1110
 cscrtry,9340
 cshift,597
-cshooter,629
 csilver,2
 csprint,58
 cstlevna,1015
@@ -552,7 +552,7 @@ darktowr,262
 darkwar,0
 darwin,256
 dazzler,174
-dblaxle,600
+dblaxle,740
 dblewing,79
 dblplay,402
 dblpoint,5
@@ -612,7 +612,7 @@ dinorex,472
 dirtfoxj,0
 disco,48
 diverboy,44
-djboy,617
+djboy,721
 dkong,5
 dkong3,20
 dkongjr,4|0
@@ -649,7 +649,7 @@ dragrace,0
 dremshpr,17
 drgnbowl,99
 drgnbstr,112
-drgnmst,606
+drgnmst,294
 drgnunit,315
 drgpunch,175
 drgw2,1194
@@ -670,7 +670,7 @@ duckhunt,9
 dungeonm,514
 dunkmnia,445
 dunkshot,45
-dyger,645
+dyger,485
 dynablst,394
 dynadice,0
 dynagear,235
@@ -718,7 +718,7 @@ excitebk,14
 exctleag,0
 exctscc2,435
 exctsccr,437
-exedexes,621
+exedexes,25
 exerion,0
 explbrkr,467
 exprraid,269
@@ -782,7 +782,7 @@ fitegolf,293
 fitfight,7
 fixeight,749
 flashgal,107
-flicky,638
+flicky,18
 flipshot,243
 flower,71
 flstory,290
@@ -804,7 +804,7 @@ friskyt,549
 frogger,100
 frogs,0
 fromanc2,196
-fromanc4,600
+fromanc4,380
 fromance,421
 fromancr,563
 frontlin,527
@@ -861,7 +861,7 @@ gcpinbal,200
 gdarius,0
 gdfs,487
 geebee,0
-gekiretu,637
+gekiretu,310
 gekiridn,528
 gekiridnj,629
 gemini,742
@@ -967,7 +967,7 @@ gundhara,59
 gundl94,4
 gunfight,565
 gunforc2,662
-gunforce,609
+gunforce,654
 gunfront,265
 gunlock,498
 gunmast,211
@@ -1083,7 +1083,7 @@ hyperspt,201
 hyprdriv,770
 hyprduel,0
 hypreac2,796
-hypreact,644
+hypreact,525
 iceclimb,8
 iceclmrj,8
 ichir,73
@@ -1091,7 +1091,7 @@ ichirj,712
 idhimitu,0
 idolmj,32
 idsoccer,260
-iemoto,614
+iemoto,234
 igmo,494
 ikari,350
 ikari3,600
@@ -1106,12 +1106,12 @@ inferno,0
 insector,33
 insectx,286
 intcup94,559
-inthunt,633
+inthunt,582
 intrepid,319
 introdon,1454
 inufuku,692
 invad2ct,18
-invaders,633
+invaders,16
 invadpt2,20
 invds,55|180
 invho2,349
@@ -1172,12 +1172,12 @@ kaguya2,297
 kaiserkn,401
 kaitei,0
 kakumei,74
-kakumei2,641
+kakumei2,74
 kamenrid,287
 kamikcab,5
 kanatuen,135
 kangaroo,56
-kaos,614
+kaos,113
 karatblz,18
 karatour,121
 karianx,484
@@ -1187,7 +1187,6 @@ kazan,28
 kbash,1001
 kchamp,23
 keithlcy,537
-kengo,624
 kick,228
 kickboy,235
 kicker,677
@@ -1204,7 +1203,7 @@ kingball,330
 kingofb,807
 kinst,66
 kinst2,72
-kirameki,611
+kirameki,506
 kirarast,317
 kittenk,486|786
 kiwame,0
@@ -1233,7 +1232,7 @@ konotako,535
 kopunch,368
 korinai,591
 korokoro,775
-koshien,609
+koshien,630
 kothello,0
 kotm,243
 kotm2,243
@@ -1262,7 +1261,7 @@ lastbld2,243
 lastday,0
 lastduel,327
 lastfort,231
-lastmisn,608
+lastmisn,751
 lazercmd,0
 lbgrande,556
 lbowling,243
@@ -1311,6 +1310,7 @@ lresort,243
 lsasquad,315
 ltcasin2,165
 ltcasino,690
+ltswords,521
 luckywld,40
 lupin3,336
 lvcards,297
