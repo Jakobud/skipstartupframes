@@ -1340,7 +1340,7 @@ maglord,243
 magmax,266
 magspot,33
 magspot2,33
-mahmajn,610
+mahmajn,596
 mahmajn2,628
 mahoudai,393
 mahretsu,243
@@ -1368,13 +1368,14 @@ marvins,67
 marvland,0
 masterw,43
 mastkin,0
+matchit2,414
 matmania,332
 matrim,243
 mausuke,1198
 maxforce,50
 maxrpm,34
 maya,150
-mayday,643
+mayday,633
 mayhem,98
 mayjisn2,250
 mayumi,62
@@ -1422,7 +1423,7 @@ mgolf,38
 mhavoc,155
 mhgaiden,221
 mhhonban,344
-mia,624
+mia,435
 midres,8
 miexchng,243
 mightguy,204
@@ -1436,13 +1437,13 @@ mineswpr,0
 minferno,0
 minigolf,586
 minivadr,73
-mirninja,623
+mirninja,486|38
 misncrft,560
 missile,30
 missw96,116
 mj4simai,68
 mjangels,227
-mjcamera,608
+mjcamera,197
 mjcamerb,524
 mjchuuka,454
 mjclinic,0
@@ -1468,7 +1469,7 @@ mjnanpas,168
 mjnatsu,84
 mjnquest,258
 mjreach1,411
-mjsikaku,642
+mjsikaku,140
 mjsister,138
 mjuraden,165
 mjyougo,0
@@ -1642,7 +1643,7 @@ ninjamas,243
 ninjaw,526
 ninjemak,48
 nitd,243
-nitedrvr,636
+nitedrvr,30
 nitrobal,226
 niyanpai,528
 nmg5,16
@@ -1689,7 +1690,7 @@ ojanko2,6
 ojankoc,199
 ojankohs,248
 ojankoy,2
-ojousan,605
+ojousan,246
 olibochu,93
 omega,40
 omegaf,0
@@ -1702,7 +1703,7 @@ opengolf,414
 openice,1230
 opwolf,120
 opwolf3,581
-orangec,608
+orangec,235
 orbit,0
 orbitron,392
 ordyne,471|60
@@ -1969,7 +1970,7 @@ quarterb,63
 quartet,8
 quasar,90
 quester,766|107
-quiz18k,605
+quiz18k,364
 quiz365,406
 quizchq,202|177
 quizdai2,243
@@ -2096,7 +2097,7 @@ rollerg,968
 rollingc,269
 rompers,700|186
 rongrong,373
-rotaryf,607
+rotaryf,19
 rotd,243
 rougien,0
 roundup,2
@@ -2141,7 +2142,7 @@ samsho3,243
 samsho4,243
 samurai,0
 samuraia,89
-sandscrp,607
+sandscrp,207
 sarge,34
 sasuke,16
 satansat,140
@@ -2153,7 +2154,7 @@ sbasebal,68
 sbasketb,407
 sbishi,719
 sbm,552
-sbomberb,649
+sbomber,649
 sbowling,150
 sbrkout,0
 scandal,333
@@ -2184,7 +2185,7 @@ seawolf2,228
 secolove,309
 sectionz,294
 seganinj,202
-seicross,608
+seicross,4
 seiha,591
 selfeena,239
 sengekis,1188
@@ -2215,7 +2216,7 @@ sfiii3,0
 sfish2,0
 sflush,33
 sfootbal,598
-sfposeid,628
+sfposeid,177|105
 sfru2049,0
 sfrush,0
 sftm,68
@@ -2233,7 +2234,7 @@ shangha2,239
 shangha3,727
 shanghai,354
 shangkid,521
-shangon,600
+shangon,14
 shanhigw,1237
 sharkatt,38
 sharrier,28
@@ -2243,7 +2244,7 @@ shienryu,1208
 shimpact,70
 shinobi,10
 shippumd,543
-shisen2,619
+shisen2,636
 shngmtkb,0
 shocking,12
 shocktr2,243
@@ -2269,7 +2270,7 @@ silentd,273
 silkroad,614
 silkworm,822
 simpbowl,0
-simpsons,600
+simpsons,575
 sindbadm,5
 sinistar,0
 sjryuko,82
@@ -2291,7 +2292,7 @@ skysmash,302
 skysoldr,975
 slammast,488
 slapfigh,0
-slapshot,641
+slapshot,393
 slikshot,348
 slipstrm,0
 slither,0
@@ -2357,7 +2358,7 @@ spcewarl,0
 spcforce,7
 spcfrcii,18
 spcinv95,407
-spcking2,634
+spcking2,0
 spclaser,23
 spclforc,31
 spclords,238
@@ -2428,7 +2429,7 @@ ssprint,30
 ssriders,319
 ssrj,30
 sss,0
-sstingry,621
+sstingry,112
 sstrangr,19
 sstrike,449
 stactics,151
@@ -2523,13 +2524,13 @@ suzume,119
 svf,136
 svolley,254
 swat,12
-swcourt,622
+swcourt,402|113
 swimmer,162
 sws,814|43
 sws92,827|57
 sws93,827|57
 sws95,612
-sws96,619
+sws96,199|13
 sws97,552|8
 sws99,560
 sxyreac2,272
@@ -2554,10 +2555,10 @@ targeth,82
 tattass,403
 taxidrvr,139
 tazmania,424
-tbowl,603
+tbowl,242
 tbyahhoo,852
 tceptor,35
-tcobra2,641
+tcobra2,399
 tdfever,251
 tdragon,0
 tdragon2,129
@@ -2620,8 +2621,8 @@ titlef,13
 tkmmpzdm,1507
 tkoboxng,6
 tmek,1450
-tmmjprd,606
-tmnt,606
+tmmjprd,44
+tmnt,582
 tmnt2,248
 tndrcade,210
 tnextspc,548
@@ -2712,7 +2713,7 @@ twcup98,0
 twinbee,1286
 twinbrat,14
 twincobr,569
-twineag2,648
+twineag2,543
 twineagl,161
 twinfalc,544
 twinhawk,514
@@ -2724,7 +2725,7 @@ twotiger,176
 twrldc94,0
 tws96,243
 tylz,291
-uballoon,642
+uballoon,422
 uccops,870
 uchuuai,293
 ufosensi,7
@@ -2750,7 +2751,7 @@ utoukond,663
 valkyrie,0
 valtric,15
 vamphalf,1684
-vandyke,624
+vandyke,609
 vangrd2,29
 vanguard,194
 vanilla,163
@@ -2818,7 +2819,7 @@ warlords,0
 warofbug,2
 warpwarp,248
 warrior,209
-warriorb,622
+warriorb,368
 waterski,19
 wb3,13
 wbbc97,41
@@ -2909,7 +2910,7 @@ zaxxon,5
 zedblade,243
 zektor,0
 zerohour,8
-zeropnt,618
+zeropnt,197
 zeropnt2,218
 zerowing,228
 zerozone,4
