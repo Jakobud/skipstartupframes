@@ -1,5 +1,7 @@
 # :star: MAME Skip Startup Frames Plugin :star:
 
+- Added preservation of frame target for current game when restarting (F3) a game. cf341d6
+
 This is a LUA Plugin for [MAME](https://www.mamedev.org/) that automatically :arrow_right: skips the startup frames for roms when you start them.
 
 ## What does it do?
