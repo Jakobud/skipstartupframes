@@ -93,7 +93,7 @@ Commit #?
 
 - Added preservation of frame target for current game when restarting (F3) a game. cf341d6
 
-- Ensure that frameTarget is always set to zero for non-existent or negative pre-existing values. https://github.com/Jakobud/skipstartupframes/commit/3f50fa50592dcd6cdcb00d5fd40e75a1f5cccd05.
+- Ensure that frameTarget is always set to zero for non-existent or negative pre-existing values. https://github.com/Jakobud/skipstartupframes/commit/3f50fa50592dcd6cdcb00d5fd40e75a1f5cccd05. 3f50fa5
 
 ### Changed
 
