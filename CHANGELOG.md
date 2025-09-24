@@ -4,6 +4,7 @@ All notable changes to the skipstartupframes MAME LUA plugin will be documented 
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
 <!--
 Types of changes:
 - "Added" for new features.
@@ -11,7 +12,7 @@ Types of changes:
 - "Deprecated" for soon-to-be removed features.
 - "Removed" for now removed features.
 - "Fixed" for any bug fixes.
-- "Security" in case of vulnerabilities. 
+- "Security" in case of vulnerabilities.
 -->
 <!--
 Link to the single commit that fixed the issue when known.
@@ -36,14 +37,14 @@ For entries fixed by several commits and that have a Discussion/Issue/BYOAC thre
 
 - Updated values in ssf.txt. 5.88% checked. (172 of 2923)
 
-### Fixed 
+### Fixed
 
 - Fixed "Black out screen during startup" and "Mute audio during startup" settings not saving. [Issue #12](https://github.com/Jakobud/skipstartupframes/issues/12).
 <!--
 Commit #?
 -->
 
-- Fixed plugin not working with games that have an "_" in the ROMname. [Issue #14](https://github.com/Jakobud/skipstartupframes/issues/14).
+- Fixed plugin not working with games that have an "\_" in the ROMname. [Issue #14](https://github.com/Jakobud/skipstartupframes/issues/14).
 <!--
 Commit #?
 -->
@@ -70,7 +71,7 @@ Commit #?
 
 - Updated values in ssf.txt.
 
-### Fixed 
+### Fixed
 
 - Fixed debug and debug slow motion toggling. [Issue #8](https://github.com/Jakobud/skipstartupframes/issues/8).
 <!--
@@ -90,7 +91,7 @@ Commit #?
 
 - Set ssf.txt to save when exiting a game or exiting MAME. [Commit cf341d6](https://github.com/Jakobud/skipstartupframes/commit/cf341d6dce55d833542c802e82656a85e83431bb).
 
-- Added preservation of frame target for current game when restarting (F3) a game. [Commit cf341d6](https://github.com/Jakobud/skipstartupframes/commit/cf341d6dce55d833542c802e82656a85e83431bb).
+- Added preservation of frame target for current game when restarting (F3) a game. cf341d6
 
 - Ensure that frameTarget is always set to zero for non-existent or negative pre-existing values. [Commit 3f50fa5](https://github.com/Jakobud/skipstartupframes/commit/3f50fa50592dcd6cdcb00d5fd40e75a1f5cccd05).
 
@@ -105,7 +106,7 @@ Commit #?
 Commit #?
 -->
 
-- Fixed alphabetical order of ssf.txt. [Commit eeddef5](https://github.com/Jakobud/skipstartupframes/commit/eeddef510d2664427369df1a45b7e51db524395f).
+- Fixed alphabetical order of ssf.txt. [eeddef5](https://github.com/Jakobud/skipstartupframes/commit/eeddef510d2664427369df1a45b7e51db524395f).
 
 ## [1.2.0] - 2024-11-20
 
