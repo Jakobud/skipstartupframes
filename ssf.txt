@@ -1654,7 +1654,7 @@ nomnlnd,11
 nost,800
 nouryoku,192
 nova2001,345
-nrallyx,775
+nrallyx,760
 nratechu,208
 nslasher,0
 nspirit,25
@@ -2269,7 +2269,7 @@ sidetrac,9
 silentd,273
 silkroad,614
 silkworm,822
-simpbowl,0
+simpbowl,1760
 simpsons,575
 sindbadm,5
 sinistar,0
