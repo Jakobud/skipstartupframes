@@ -231,7 +231,7 @@ bioship,354
 birdtry,323
 bishi,546
 bjourney,243
-bjtwin,59
+bjtwin,64
 bking,497
 bking2,0
 bking3,38
