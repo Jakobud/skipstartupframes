@@ -115,7 +115,7 @@ area51mx,287
 arescue,532
 argus,15
 argusg,0
-arkanoid,500
+arkanoid,550
 arkarea,184
 arknoid2,111
 arkretrn,667
