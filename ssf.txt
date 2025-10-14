@@ -491,7 +491,7 @@ crimec,142
 crimfght,251
 crkdown,0
 crospang,174
-crossbow,0
+crossbow,1780
 crshrace,544
 crsword,243
 crush,366
