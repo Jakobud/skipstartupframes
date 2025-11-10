@@ -1734,7 +1734,7 @@ pacland,158
 pacman,300
 pacmania,120
 pacnpal,803
-pacplus,292
+pacplus,300
 paddlema,363
 pairlove,189
 pairs,178
