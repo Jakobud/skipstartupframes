@@ -2017,7 +2017,7 @@ rallybik,517
 rallyx,760
 rambo3,122
 rambo3u,515
-rampage,16
+rampage,30
 rampart,360
 raphero,99
 rastan,11
