@@ -2487,7 +2487,7 @@ strtdriv,0
 strtheat,0
 strvmstr,8
 stunrun,180
-subroc3d,140
+subroc3d,200
 subs,0
 sucasino,154
 suchipi,421
