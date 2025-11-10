@@ -2090,7 +2090,7 @@ rockmanj,460
 rockn,96
 rockrage,218
 rocktrv2,1074
-rocnrope,380
+rocnrope,420
 rodland,39
 rohga,2
 roishtar,66
