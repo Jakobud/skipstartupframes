@@ -5,9 +5,7 @@
 005,268
 1941,1046
 1942,10
-1942,10
 1943,70
-1943kai,72
 1943kai,72
 1944,687
 1945kiii,425
@@ -110,11 +108,11 @@ arabfgt,41
 arabian,57
 arabianm,169
 arbalest,131
-arcadecl,540
+arcadecl,0
 archrivl,143
 area51,65
 area51mx,287
-arescue,532
+arescue,40
 argus,15
 argusg,0
 arkanoid,550
@@ -227,10 +225,10 @@ bijokkoy,425
 bioatack,289
 biofreak,1346
 biomtoy,1095
-bionicc,527
+bionicc,237
 bioship,354
 birdtry,323
-bishi,546
+bishi,335
 bjourney,243
 bjtwin,64
 bking,497
@@ -307,20 +305,20 @@ bowler,38
 bowlrama,1157
 boxer,71
 boxingb,184
-boxyboy,546
+boxyboy,145|84
 bradley,46
 brain,26
 brdrlinb,4
 breakers,243
 brickzn,594
 brival,44
-brkthru,538
+brkthru,3
 brubber,0
 brutforc,244
 brvblade,530
 bshark,386
 bsktball,0
-bssoccer,529
+bssoccer,506
 bstars,243
 bstars2,243
 btime,0
@@ -369,7 +367,7 @@ carnival,70
 carpolo,504
 cartfury,0
 castfant,8890
-cavelon,538
+cavelon,58
 cavenger,5
 cawing,894
 cbaj,0
@@ -493,7 +491,7 @@ crimfght,251
 crkdown,0
 crospang,174
 crossbow,1780
-crshrace,544
+crshrace,556
 crsword,243
 crush,366
 crusnusa,746
@@ -531,7 +529,7 @@ cybots,67
 cybsled,360
 cyclshtg,464|582
 cyclwarr,447
-cyvern,528
+cyvern,982
 dacholer,505
 daioh,227
 daiskiss,802
@@ -567,7 +565,7 @@ dcheese,0
 dcon,246
 dday,150
 ddcrew,30
-ddenlovr,534
+ddenlovj,499
 ddonpach,1800
 ddp2,1144
 ddragon,262
@@ -677,7 +675,7 @@ dynadice,0
 dynagear,235
 dynamski,241
 dynduke,318
-dynobop,543
+dynobop,389
 dynwar,148
 eaglshot,37
 earthjkr,112
@@ -695,7 +693,7 @@ ejanhs,18
 ejihon,0
 elecyoyo,0
 elevator,70
-elim2,538
+elim2,0
 elvactr,513
 embargo,250
 emeralda,402|122
@@ -808,7 +806,7 @@ fromanc2,196
 fromanc4,380
 fromance,421
 fromancr,559
-frontlin,527
+frontlin,168
 fround,382
 fshark,584
 fstarfrc,414
@@ -908,7 +906,7 @@ goldmedl,91
 goldnaxe,370
 golgo13,3122
 gollygho,467
-gomoku,529
+gomoku,447
 gondo,20
 goonies,1030
 gorf,9
@@ -974,7 +972,7 @@ gunfront,265
 gunlock,498
 gunmast,211
 gunnail,149
-gunsmoke,544
+gunsmoke,246
 gururin,243
 gutsn,84
 guwange,851
@@ -1294,7 +1292,7 @@ lizwiz,62
 lkage,66
 llander,3
 lnc,363
-lockload,549
+lockload,127
 locomotn,383
 loderndf,927
 loffire,33
@@ -1521,7 +1519,7 @@ mp_twc,287
 mpang,510
 mpatrol,9
 mplanets,980|920
-mrdo,547
+mrdo,0
 mrdrillr,452
 mrdrilr2,0
 mrflea,271
@@ -1579,7 +1577,7 @@ mt_tlbba,0
 mt_wcsoc,0
 mtlchamp,1341
 mtrap,1984
-mtwins,537
+mtwins,540
 mugsmash,426
 multchmp,766
 musobana,415
@@ -1647,7 +1645,7 @@ ninjemak,48
 nitd,243
 nitedrvr,30
 nitrobal,226
-niyanpai,528
+niyanpai,397
 nmg5,16
 nmouse,39
 nmsengen,93
@@ -1827,7 +1825,7 @@ penbros,160
 pengo,523
 pepper2,2278
 percuss,82
-perestro,543
+perestro,74
 perfrman,70
 peterpak,169
 pettanp,13
@@ -2011,7 +2009,7 @@ raiden,42
 raiden2,30
 raiders,131
 raiders5,1443
-raimais,529
+raimais,46
 rainbow,376
 rallybik,517
 rallyx,760
@@ -2081,7 +2079,7 @@ robby,58
 roboarmy,243
 robocop,19
 robocop2,200
-robokid,532
+robokid,2440
 robotbwl,274
 robotron,735
 robowres,12
@@ -2165,7 +2163,7 @@ schaser,48
 schmeisr,604
 sci,107
 scion,286
-scobra,526
+scobra,229
 scontra,336
 scorpion,571
 scotrsht,97
@@ -2245,7 +2243,7 @@ sheriff,23
 shienryu,1208
 shimpact,70
 shinobi,10
-shippumd,543
+shippumd,556
 shisen2,636
 shngmtkb,0
 shocking,12
@@ -2402,14 +2400,14 @@ sqbert,352
 sqix,686
 sraider,8
 sranger,186
-srdarwin,530
+srdarwin,0
 srdmissn,102
 srmp2,0
 srmp3,0
 srmp4,263
 srmp6,477
 srmp7,185
-srumbler,539
+srumbler,291
 ssf2,1004
 ssfindo,0
 sshangha,0
@@ -2421,7 +2419,7 @@ ssideki3,243
 ssideki4,243
 sslam,170
 ssmissin,37
-ssoldier,544
+ssoldier,790
 ssozumo,4
 sspacaho,488
 sspaceat,21
@@ -2516,7 +2514,7 @@ suprslam,233
 suprtrio,195
 supxevs,5
 suratk,431
-surfplnt,540
+surfplnt,257
 survarts,221
 survival,12
 susume,2000
@@ -2717,7 +2715,7 @@ twinbrat,14
 twincobr,506
 twineag2,543
 twineagl,161
-twinfalc,544
+twinfalc,526
 twinhawk,514
 twinkle,47
 twinqix,552
